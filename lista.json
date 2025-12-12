@@ -1,15 +1,15 @@
 {
   "modelos": [
     {
-      "nomeExibicao": "Motor V8",
+      "nomeExibicao": "Rims",
       "nomeArquivo": "peca1.glb"
     },
     {
-      "nomeExibicao": "Turbina Eólica",
+      "nomeExibicao": "Screw",
       "nomeArquivo": "peca2.glb"
     },
     {
-      "nomeExibicao": "Caixa de Câmbio",
+      "nomeExibicao": "Disk Brake",
       "nomeArquivo": "peca3.glb"
     }
   ]
