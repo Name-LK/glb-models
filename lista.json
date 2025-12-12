@@ -1,0 +1,16 @@
+{
+  "modelos": [
+    {
+      "nomeExibicao": "Motor V8",
+      "nomeArquivo": "peca1.glb"
+    },
+    {
+      "nomeExibicao": "Turbina Eólica",
+      "nomeArquivo": "peca2.glb"
+    },
+    {
+      "nomeExibicao": "Caixa de Câmbio",
+      "nomeArquivo": "peca3.glb"
+    }
+  ]
+}
